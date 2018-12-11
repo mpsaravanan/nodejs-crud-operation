@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-crud-operation",
+  "version": "1.0.0",
+  "description": "CRUD operation using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpsaravanan/nodejs-crud-operation.git"
+  },
+  "keywords": [
+    "CRUD",
+    "node",
+    "express",
+    "express-generator"
+  ],
+  "author": "Saravanan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpsaravanan/nodejs-crud-operation/issues"
+  },
+  "homepage": "https://github.com/mpsaravanan/nodejs-crud-operation#readme"
+}
